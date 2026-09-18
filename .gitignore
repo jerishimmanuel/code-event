@@ -1,0 +1,4 @@
+# Environment files (never push to GitHub)
+.env
+.env.local
+.env.*.local
